@@ -11,6 +11,8 @@ namespace MyFirstRepo
         static void Main(string[] args)
         {
             int age = 9;
+            DateTime today = DateTime.Now;
+            yyuii
         }
     }
 }
